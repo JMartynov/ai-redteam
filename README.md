@@ -1,19 +1,5 @@
-# ai-redteam
-AI Red Team Tool
-
-Below is a **clean Stage-1 README** for an open-source **AI Red Team CLI tool**.
-This version is optimized for:
-
-* GitHub adoption
-* developer clarity
-* potential **viral growth (stars)**
-
-It follows the structure you asked for.
-
----
-
 # AI Red Team Tool
-
+## ai-redteam
 Red team your AI apps in seconds.
 
 Automatically test LLM applications for **prompt injection**, **data leaks**, and **security vulnerabilities**.
